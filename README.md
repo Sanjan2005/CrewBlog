@@ -132,7 +132,3 @@ Or leave it blank to let `crewai run` prompt you interactively in the terminal.
 The finished publication-ready post will be saved to `output/blog_post.md`.
 
 ---
-
-## 📄 License
-
-This project is open-source under the MIT License.
