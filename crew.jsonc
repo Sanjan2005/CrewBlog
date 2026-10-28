@@ -177,6 +177,6 @@
   // "description": "Research {topic} and write a brief"
   // `crewai run` prompts for any placeholders missing from this object.
   "inputs": {
-    "topic": "How to Learn Programming as a Beginner"
+    "topic": "how Live streaming platforms manage hughe data flow"
   }
 }

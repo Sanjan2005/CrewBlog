@@ -4,4 +4,7 @@ __pycache__/
 report.md
 .crewai/
 .venv/
+.linkedin.md
+LINKEDIN_POST.md
+*linkedin*
 
